@@ -44,6 +44,7 @@ VALUES ("Math", 3, 2);
 INSERT INTO courses(courses_name, courses_students_id, courses_professors_id)
 VALUES ("Math", 4, 2);
 
+
 -- GRADES
 INSERT INTO grades(grades_final, grades_students_id, grades_professors_id, grades_courses_id)
 VALUES (95, 1, 1, 1);
