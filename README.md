@@ -1,3 +1,3 @@
-# university-sql-schema_scripts
+# university-sql-schema-scripts
 
 Project Requirements for SQL Course
